@@ -1,4 +1,4 @@
-package com.example.basicDataSourceDemo.Model;
+package com.example.customDataSourceDemo.Model;
 
 
 import lombok.*;

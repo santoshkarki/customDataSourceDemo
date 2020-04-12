@@ -1,10 +1,10 @@
-package com.example.basicDataSourceDemo;
+package com.example.customDataSourceDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BasicDataSourceDemoApplicationTests {
+class CustomDataSourceDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
